@@ -24,8 +24,8 @@ pip install discord.py yt-dlp asyncio
 
 ### 3. Клонирование репозитория
 ```sh
-git clone https://github.com/Progress-ux/discord-music-bot.git
-cd discord-music-bot
+git clone https://github.com/Progress-ux/PyDiscordBot.git
+cd PyDiscordBot
 ```
 
 ### 4. Запуск бота
